@@ -8,3 +8,17 @@ body {
     background: azure;
     color: purple;
 }
+
+footer {
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+}
+
+a {
+    padding-left: 2em;
+    padding-right: 2em;
+    
+}
